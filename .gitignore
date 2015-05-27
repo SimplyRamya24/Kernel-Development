@@ -1,0 +1,10 @@
+.depend
+.settings
+.project
+.cproject
+/kern/compile/
+defs.mk
+build
+/user/testbin/randcall/calls.c
+*.swp
+.tag*
