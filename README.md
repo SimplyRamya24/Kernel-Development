@@ -1,4 +1,4 @@
-# CSE521-OS161-Kernel-Development
+# Kernel-Development
 
 
 Adds synchronization, system calls and virtual memory support to OS161.
